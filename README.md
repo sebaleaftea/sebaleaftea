@@ -1,6 +1,6 @@
 ## Hi,I'm Sebastian 👋
 
-![sebaleaftea's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![sebaleaftea's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebaleaftea&hide=contribs,prs)
 
 
 
